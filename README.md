@@ -2,7 +2,7 @@
 
 ## Phase one
 
-In phase one there are two subtasks, our notebooks for them are:
+In phase one there are two subtasks.
 
  - subtask 1: fit a model to all the data. This is the file all_data.ipynb
  - subtask 2: fit a model to each station. We have two notebooks here, for different usecases. 
